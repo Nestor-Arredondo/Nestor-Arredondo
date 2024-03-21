@@ -1,5 +1,6 @@
 or<div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Nestor Arredondo</a> 👋</h1>
+<h1 align="center">Hola, soy Nestor Arredondo</a> 👋</h1>
+<h2 align="center"> Ing.Mecatronico - Tester QA</a> 👋</h2>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
